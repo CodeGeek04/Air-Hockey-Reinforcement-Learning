@@ -6,8 +6,6 @@ I have built another repo as well where an agent plays Atari Breakout game..Do c
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Demo](#demo)
-- [License](#license)
 
 ## Installation
 
