@@ -10,7 +10,7 @@ I have built another repo as well where an agent plays Atari Breakout game..Do c
 ## Installation
 
 1. Clone this repository:
-https://github.com/CodeGeek04/atari-breakout-reinforcement-learning
+https://github.com/CodeGeek04/Air-Hockey-Reinforcement-Learning
 
 2. Navigate to the repository:
 cd air-hockey-reinforcement-learning
